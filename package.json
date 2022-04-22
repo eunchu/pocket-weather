@@ -19,6 +19,7 @@
     "@types/react-dom": "^17.0.10",
     "@types/styled-components": "^5.1.25",
     "@vitejs/plugin-react": "^1.0.7",
+    "moment": "^2.29.3",
     "react-query": "^3.35.0",
     "styled-components": "^5.3.5",
     "styled-reset": "^4.3.4",

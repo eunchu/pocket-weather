@@ -16,8 +16,8 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Raleway', sans-serif;
     font-size: 12px;
     font-weight: 400;
-    line-height: 1.5;
-    color: #111111;
+    line-height: 1;
+    /* color: #F7F6F4; */
 
     margin: 0;
     padding: 0;
