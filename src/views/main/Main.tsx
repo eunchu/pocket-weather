@@ -138,8 +138,6 @@ const Main = () => {
     }
   );
 
-  // console.log("api key", import.meta.env.VITE_API_KEY);
-
   return (
     <MainPresenter cityName={cityName} data={weatherData} weekInfo={weekInfo} />
   );
