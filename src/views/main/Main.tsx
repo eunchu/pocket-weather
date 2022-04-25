@@ -37,7 +37,7 @@ const Main = () => {
   >(new Map());
 
   // NOTE weather api key
-  const apiKey = "cb6302cd5c4fb36a8493f603e55cb4ae";
+  const apiKey = import.meta.env.VITE_API_KEY;
 
   // NOTE [API] 선택 된 지역에 맞는 좌표 호출
   const {
